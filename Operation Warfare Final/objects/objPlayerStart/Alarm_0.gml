@@ -1,0 +1,1 @@
+instance_change(objPlayer, true);

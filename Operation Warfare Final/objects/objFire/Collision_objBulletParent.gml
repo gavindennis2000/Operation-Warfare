@@ -1,0 +1,1 @@
+// can't damage fire lol

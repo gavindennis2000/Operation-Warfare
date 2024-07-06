@@ -1,0 +1,1 @@
+flashRectangle = 2;

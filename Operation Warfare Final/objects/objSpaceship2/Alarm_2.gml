@@ -1,0 +1,1 @@
+audio_play_sound(sndStageFinal, 1, true);  // play the stage song

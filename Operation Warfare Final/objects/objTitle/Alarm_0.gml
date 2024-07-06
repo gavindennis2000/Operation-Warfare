@@ -1,0 +1,1 @@
+audio_play_sound(sndTitle, 1, false); // play the title music
